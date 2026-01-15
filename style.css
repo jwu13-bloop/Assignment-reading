@@ -44,6 +44,20 @@ body {
     line-height: 1.5em;
 }
 
+.purple{
+    text-align: left;
+    color: rgb(251, 255, 131);
+    background-color: rgb(238, 0, 255);
+    box-sizing: border-box;
+    width: fit-content;
+    height: auto;
+    padding: 10%;
+    border: 10px;
+    margin: 10px auto;
+    line-height: 1.5em;
+}
+
+
 .response {
     background-color: rgba(255, 182, 193, 0.6);
     box-sizing: content-box;
@@ -107,6 +121,11 @@ body {
 .a3 {
     text-decoration: none;
     color: rgb(101, 242, 255);
+}
+
+.a4 {
+    text-decoration: none;
+    color: rgb(251, 255, 13);
 }
 
 .position{
